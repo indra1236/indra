@@ -1,2 +1,2 @@
 # indra
-Tugas pengolahan citra digital
+pengolahan citra digital
