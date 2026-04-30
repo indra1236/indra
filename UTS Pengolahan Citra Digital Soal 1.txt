@@ -1,0 +1,8 @@
+﻿1. Citra asli: distribusi mengikuti kondisi gambar (bisa dominan gelap/terang).
+Negatif: distribusi histogram terbalik (gelap ↔ terang), bentuk sama tapi posisi terbalik.
+Logaritmik: distribusi melebar di area gelap, detail gelap lebih terlihat, area terang dikompresi.
+2. Transformasi logaritmik lebih efektif saat:
+•banyak detail di area gelap
+•kontras rendah pada bagian gelap
+Sedangkan negatif hanya untuk membalik tampilan, bukan meningkatkan detail.
+
